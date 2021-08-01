@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE04OSPS-SF01B-4A-NUTNRA102-streamed-nutnr_a_sample
-last_request: '2021-05-01T00:17:10.126451Z'
+last_request: '2021-08-01T00:28:02.476029Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSPS-SF01B-4A-NUTNRA102-streamed-nutnr_a_sample/main/history/response.json
-status: success
+status: failed
